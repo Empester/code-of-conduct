@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="https://discordapp.com/api/guilds/1417579986268852408/widget.png?style=shield" alt="Discord Shield">
-</p>
-
-
-
 ---
 
 # Code of Conduct
