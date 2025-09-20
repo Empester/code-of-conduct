@@ -406,11 +406,6 @@ We aim to keep you updated whenever these guidelines get revised. However, the r
 
 Above all, exercise good judgment and common sense.
 
-## Contributors
-
-<sub>Made with [contrib.rocks](https://contrib.rocks).</sub>
-
-[![Contributors](https://contrib.rocks/image?repo=allthingslinux/code-of-conduct)](https://github.com/allthingslinux/code-of-conduct/graphs/contributors)
 
 ## License
 
@@ -418,4 +413,4 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
 Creative Commons Attribution 4.0 International
-© 2025 All Things Linux
+© 2025 Librecomick
