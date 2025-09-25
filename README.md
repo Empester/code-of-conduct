@@ -21,7 +21,7 @@
   - [2.3. Voice Channels](#23-voice-channels)
     - [Moderation](#moderation)
   - [2.4. Bot Usage](#24-bot-usage)
-  - [2.5. “On” and “Off” topic](#25-on-and-off-topic)
+  - [2.5. “Correct Channels Usage"](#25-correct-channels-usage)
   - [2.6. Spam](#26-spam)
   - [2.7. Malicious Behavior](#27-malicious-behavior)
   - [2.8. Advertising](#28-advertising)
@@ -29,22 +29,19 @@
 - [Section 3. Moderation](#section-3-moderation)
   - [3.1. Reporting](#31-reporting)
   - [3.2. Consistency](#32-consistency)
-  - [3.3. Transparency](#33-transparency)
-  - [3.4. Enforcement](#34-enforcement)
+  - [3.3. Enforcement](#34-enforcement)
     - [Hard Rules](#hard-rules)
     - [Case by Case](#case-by-case)
     - [Automod](#automod)
-  - [3.5. Punishment](#35-punishment)
-    - [3.5.a - Moderator Privileges](#35a---moderator-privileges)
+  - [3.4 Punishment](#35-punishment)
+    - [3.4.a - Moderator Privileges](#35a---moderator-privileges)
     - [Additional Actions](#additional-actions)
-    - [3.5.b - Administrator Privileges](#35b---administrator-privileges)
-  - [3.6. Punishment Evasion](#36-punishment-evasion)
-  - [3.7. Fairness](#37-fairness)
+    - [3.4.b - Administrator Privileges](#35b---administrator-privileges)
+  - [3.5. Punishment Evasion](#36-punishment-evasion)
+  - [3.6. Fairness](#37-fairness)
     - [Bias](#bias)
-  - [3.8. Appeals](#38-appeals)
+  - [3.7. Appeals](#38-appeals)
 - [Notice](#notice)
-- [Contributors](#contributors)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -160,23 +157,12 @@ Examples of moderation expectations:
 | **Medium**  | Forcing conversations to end.                                                                           |
 | **Severe**  | Members with repetitive offenses may receive timeouts and be addressed in tickets within 5m to 2 hours. |
 
-### 1.5. Avoidance of Elitism
 
-Members should avoid disparaging others on the basis of their choices, be it their choice of operating system, desktop environment, or other interests outside the main topics of the server. While friendly rivalry and banter can be elements of online communities, we don't welcome deliberate and obnoxious elitism. Respect for each other's preferences and diversity is a cardinal rule in our server.
-
-Examples of moderation expectations:
-
-| Expectation | Description                                                                                                                                              |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mild**    | Occasional or every now and then behavior usually doesn't require active moderation.                                                                     |
-| **Medium**  | If a Member is repetitively being rude or unhealthy in their behavior, Moderators may ask them to stop.                                                  |
-| **Severe**  | If the behavior becomes a significant problem, Moderators may pull Members into tickets and respond accordingly based on their willingness to cooperate. |
-
-### 1.6. Respecting Authority & Rules
+### 1.5. Respecting Authority & Rules
 
 Should a Moderator request you to modify your behavior, please be cooperative. In case of disagreements or errors with said moderation, we encourage you to submit a support ticket instead of publicly escalating the situation. Any rule violation should be reported via ticket, leaving the resolution to an authorized Moderator. While we discourage backseat moderating, we hope that members will help us maintain a healthy environment by guiding others if they are unaware of the rules or suggesting that certain behavior is inappropriate.
 
-### 1.7. Piracy & Penetration Testing
+### 1.6. Piracy & Penetration Testing
 
 Discussions about piracy, penetration testing, and ethical hacking are allowed strictly for educational and informational purposes. However, sharing, facilitating, or encouraging illegal activities in any form is strictly prohibited. Discussions of aforementioned topics must remain neutral, educational, and should not promote, endorse, display or instruct on illegal activities.
 
@@ -260,11 +246,10 @@ Examples of moderation expectations:
 | **Medium**  | Members may be brought into tickets to talk with Moderators about their actions.      |
 | **Severe**  | Members with severe infractions may receive mutes ranging from 10 minutes to 3 hours. |
 
-### 2.5. “On” and “Off” topic
+### 2.5. Correct Channels Usage
 
 * Use the correct channels. Please try to keep the correct chatter theme to the dedicated channels. Although we are not very strict about this rule, it would be greatly appreciated. We strive to keep channels somewhat organized.
 * If you're unsure what a channel is for you can check the description for further details. If you're still confused you can ask in general chat, a Moderator or send in a ticket as a last resort.
-* Please do not derail support threads or comment on Moderator actions in community channels. If you have concerns or questions regarding a Moderator’s actions, create a ticket to discuss the matter.
 
 ### 2.6. Spam
 
@@ -305,11 +290,7 @@ Moderators are here to help. If there is a problem that needs Moderator attentio
 
 All rules apply to all Members, including Moderators. If the Community has reason to believe the Owner is unfit for ownership due to breaching any rules defined in this document or misusing the server outside of what is listed, the Community may request for ownership to be removed and changed.
 
-### 3.3. Transparency
-
-Audit Logs are visible to all server Members. Audit Logs contain a history of all changes and actions within the server as well as all Moderator actions such as punishments given to Members.
-
-### 3.4. Enforcement
+### 3.3. Enforcement
 
 Enforcement of these rules may be done through different means. Listed below are the typical forms.
 
@@ -337,8 +318,8 @@ With Case by Case moderation, punishment is more subjective and dependent on the
 
 Basic auto moderation will exist in this server to prevent universally severe and hateful/offensive language. If auto moderation prevents natural discussion at any point, report the issue via ticket. Additionally, basic safety and security precautions will exist to filter out harmful links and material shared within this server.
 
-### 3.5. Punishment
-#### 3.5.a - Moderator Privileges
+### 3.4. Punishment
+#### 3.4.a - Moderator Privileges
 If a Member is found breaking any of these rules,
 Moderators reserve the right to give any of the following punishments depending on the severity of the offense:
 
@@ -359,7 +340,7 @@ Additionally, Moderators reserve the right to:
 * Request for the change of any features found on a Member’s profile/server profile.
 * Use their own discretion, but must justify these decisions and seek approval from their peers
 
-#### 3.5.b - Administrator Privileges
+#### 3.4.b - Administrator Privileges
 Administrators outline and uphold our standards.
 
 * **Dispute regarding conduct**
@@ -370,11 +351,11 @@ Administrators outline and uphold our standards.
   * Administrators are permitted to terminate Members displaying any description of unsuitable behavior, unrelated to compliance with the Code of Conduct.
 <!-- TODO: Clarification is further needed on this topic. -->
 
-### 3.6. Punishment Evasion
+### 3.5. Punishment Evasion
 
 Members should not attempt to evade the consequences of their actions such as using an alternate account to bypass restrictions. Punishment evasion will result in an immediate ban.
 
-### 3.7. Fairness
+### 3.6. Fairness
 
 #### Bias
 
